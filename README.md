@@ -18,16 +18,16 @@ e) Declear another variable, `newTV`, of the same kind of Object, with the value
 
 f) Use a `for...in` loop to list all the properties of `newTV`, on the form "value (key)".
 
-g) Add the two TV more objects to an Array named `tvs`, with these values: 
-* `TCL`, `55DP660`, `2160p`, `2018`
-* `LG`, `65UN7100`, `2160p`, `2019`
+g) Add the two TV objects to an Array named `tvs`.
 
 h) Use a `for...of` loop to list all (ie. both) Objects in the `tvs` Array, on the form: "LG 65OLEDCX (2020), 2160p".
 
 ## Exercise 2 - Level 2
 
-a) Add two more TVs to the `tvs` Array from Exercise 1
+a) Add two more TVs to the `tvs` Array from Exercise 1, with these values, using push twice: 
+* `TCL`, `55DP660`, `2160p`, `2018`
+* `LG`, `65UN7100`, `2160p`, `2019`
 
-b) Use the `Array.sort()` on `tvs` and list the result, using the same way as you did in 1h).
+b) Use the `Array.sort()` on `tvs` and list the result, using the same way as you did in 1h). What happens?
 
-c) Make a *compare function* that sorts `tvs` based on the `year` value, listing the newest TVs first.
+c) Make a *compare function* that sorts `tvs` based on the `year` value, listing the newest TVs first. Now list the sorted `tvs` Array (as in 1h and 2b).
