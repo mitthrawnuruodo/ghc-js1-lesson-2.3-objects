@@ -24,9 +24,9 @@ h) Use a `for...of` loop to list all (ie. both) Objects in the `tvs` Array, on t
 
 ## Exercise 2 - Level 2
 
-a) Add two more TVs to the `tvs` Array from Exercise 1, with these values, using push twice: 
+a) Add two more TVs to the `tvs` Array from Exercise 1, with these values, using `push()` twice: 
 * `TCL`, `55DP660`, `2160p`, `2018`
-* `LG`, `65UN7100`, `2160p`, `2019`
+* `Samsung`, `QE65Q950RBT`, `4320p`, `2019`
 
 b) Use the `Array.sort()` on `tvs` and list the result, using the same way as you did in 1h). What happens?
 
