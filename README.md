@@ -1,4 +1,4 @@
-# Programming Foundations Lesson 2.3: Objects
+# JavaScript 1 Lesson 2.3: Objects
 
 ## Exercise 1
 
